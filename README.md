@@ -14,20 +14,20 @@ This is a collection of independent app developers that we at Nami like and want
 
 | App Name | Social Media Account | Submitted By |
 | -------- | -------------------- | ------------ |
-| [Fabula](https://apps.apple.com/us/app/fabula/id1503214451) |  [@JPEGuin](https://twitter.com/JPEGuin) | Dan Burcaw |
+| [Fabula](https://apps.apple.com/us/app/fabula/id1503214451) |  [@JPEGuin](https://twitter.com/JPEGuin) | [DB](https://twitter.com/burcaw) |
 | [LogTen Pro](https://coradine.com/) |  [@coradine](https://twitter.com/coradine) |  |
 | [Remote Control for Mac](https://cherpake.com/) |  [@cherpake](https://twitter.com/cherpake) |  |
 | [Gus on the Go!](https://www.gusonthego.com/) |  [@yonomitt](https://twitter.com/yonomitt) |  |
 | [Journey](https://2appstudio.com/journey/) |  [@2appstudio](https://twitter.com/2appstudio) |  |
-| [Quran Memorizer](https://apps.apple.com/us/app/quran-memorizer/id421890227) |  [@aijaz](https://twitter.com/_aijaz_) | Joe Pezzillo |
+| [Quran Memorizer](https://apps.apple.com/us/app/quran-memorizer/id421890227) |  [@aijaz](https://twitter.com/_aijaz_) | [@ejoep](https://twitter.com/ejoep) |
 | [Jumbo Egg Hunt 3](https://apps.apple.com/us/app/jumbo-easter-egg-hunt-3/id1358071906) |  [@8bitavrin](https://twitter.com/8bitavrin) |  |
 | [Tabular](https://chromaticlabs.com/tabular) |  [@jarod2d](https://twitter.com/jarod2d) |  |
 | [Vocable](https://www.vocable.app/) |  [@mattkubota](https://twitter.com/mattkubota) |  |
-| [Dashbird](http://www.saviapps.com/) |  [@joshbruhin](https://twitter.com/joshbruhin) | Garrett Gillas |
+| [Dashbird](http://www.saviapps.com/) |  [@joshbruhin](https://twitter.com/joshbruhin) | [@garrettgillas](https://twitter.com/garrettgillas) |
 | [Hours Tracker](http://www.hourstrackerapp.com/) |  [@cribasoft](https://twitter.com/cribasoft) |  |
 | [SlideShow Maker](https://apps.apple.com/us/developer/mate-kovacs/id1496005716) |  [@kovacsamate](https://twitter.com/kovacsamate) |  |
 | [ZodiaCat](https://apps.apple.com/us/app/zodiacat/id952450591) |  [@bobveasey](https://twitter.com/bobveasey) |  |
-| [VerseWise Bible](https://apps.apple.com/us/developer/vdub-software-llc/id284947384) |  [@bgeerdes](https://twitter.com/bgeerdes) |  |
+| [VerseWise Bible](https://apps.apple.com/us/developer/vdub-software-llc/id284947384) |  [@bgeerdes](https://twitter.com/bgeerdes) | [@kendalldevdiary](https://twitter.com/kendalldevdiary) |
 | [Where Am I?](https://apps.apple.com/us/developer/glasswave-llc/id391637976) |  [@outpost212](https://twitter.com/outpost212) |  |
 | [Pack, Simple Packing List](https://apps.apple.com/us/app/pack-simple-packing-list/id946710691) |  [@dejal](https://twitter.com/dejal) |  |
 | [VR MEGA Pack for Virtual Reality Glasses](https://apps.apple.com/us/app-bundle/vr-mega-pack-for-virtual-reality-glasses/id1445611868) |  [@mobilegamesfan](https://twitter.com/mobilegamesfan) |  |
@@ -38,4 +38,4 @@ This is a collection of independent app developers that we at Nami like and want
 | [Rainbow Music](https://apps.apple.com/gb/app/rainbow-music/id1480435488) |  [@walford_east](https://twitter.com/walford_east) |  |
 | [PDF Archiver](https://apps.apple.com/app/apple-store/id1433801905?mt=8) |  [@JuKa1205](https://twitter.com/juka1205) |  |
 | [Nihongo - Japanese Dictionary](https://apps.apple.com/us/app/nihongo-japanese-dictionary/id881697245) |  [@chrisvasselli](https://twitter.com/chrisvasselli) |  |
-| [MyRadar Weather](https://myradar.com/) |  [@MyRadarWX](https://twitter.com/myradarwx) | Joe Pezzillo |
+| [MyRadar Weather](https://myradar.com/) |  [@MyRadarWX](https://twitter.com/myradarwx) | [@ejoep](https://twitter.com/ejoep) |
