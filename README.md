@@ -14,7 +14,7 @@ This is a collection of independent app developers that we at Nami like and want
 
 | App Name | Social Media Account | Submitted By |
 | -------- | -------------------- | ------------ |
-| [Fabula](https://apps.apple.com/us/app/fabula/id1503214451) |  [@JPEGuin](https://twitter.com/JPEGuin) | [@DB](https://twitter.com/burcaw) |
+| [Fabula](https://apps.apple.com/us/app/fabula/id1503214451) |  [@JPEGuin](https://twitter.com/JPEGuin) | [@burcaw](https://twitter.com/burcaw) |
 | [LogTen Pro](https://coradine.com/) |  [@coradine](https://twitter.com/coradine) |  |
 | [Remote Control for Mac](https://cherpake.com/) |  [@cherpake](https://twitter.com/cherpake) |  |
 | [Gus on the Go!](https://www.gusonthego.com/) |  [@yonomitt](https://twitter.com/yonomitt) |  |
@@ -39,3 +39,4 @@ This is a collection of independent app developers that we at Nami like and want
 | [PDF Archiver](https://apps.apple.com/app/apple-store/id1433801905?mt=8) |  [@JuKa1205](https://twitter.com/juka1205) |  |
 | [Nihongo - Japanese Dictionary](https://apps.apple.com/us/app/nihongo-japanese-dictionary/id881697245) |  [@chrisvasselli](https://twitter.com/chrisvasselli) |  |
 | [MyRadar Weather](https://myradar.com/) |  [@MyRadarWX](https://twitter.com/myradarwx) | [@ejoep](https://twitter.com/ejoep) |
+| [Nikola for Tesla](https://www.nikolaapp.com/ |  [@DavidHodge](https://twitter.com/DavidHodge) [@burcaw](https://twitter.com/burcaw) |
